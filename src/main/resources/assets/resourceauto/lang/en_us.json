@@ -1,0 +1,8 @@
+{
+  "item.resourceauto.steel_ingot": "Steel Ingot",
+  "item.resourceauto.steel_nugget": "Steel Nugget",
+
+  "block.resourceauto.steel_block": "Steel Block",
+
+  "itemGroup.resourceAutoTab": "Resource Auto"
+}

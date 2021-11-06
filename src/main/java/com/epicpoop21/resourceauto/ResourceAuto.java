@@ -1,5 +1,7 @@
 package com.epicpoop21.resourceauto;
 
+import com.epicpoop21.resourceauto.block.ModBlocks;
+import com.epicpoop21.resourceauto.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -31,9 +33,12 @@ public class ResourceAuto {
         // Register the setup method for modloading
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
+
         eventBus.addListener(this::setup);
 
-        // Register ourselves for server and other game events we are interested in
+        // Register ourselves for server and other game events we are interested in here
         MinecraftForge.EVENT_BUS.register(this);
     }
 
