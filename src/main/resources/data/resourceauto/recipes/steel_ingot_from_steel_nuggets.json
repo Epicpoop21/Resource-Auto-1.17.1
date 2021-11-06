@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "resourceauto:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "resourceauto:steel_ingot"
+  }
+}

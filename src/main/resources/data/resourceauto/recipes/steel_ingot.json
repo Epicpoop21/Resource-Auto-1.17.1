@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron"
+  },
+  "addition": {
+    "item": "minecraft:coal"
+  },
+  "result": {
+    "item": "resourceauto:steel_ingot"
+  }
+}
