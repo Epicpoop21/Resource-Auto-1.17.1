@@ -43,6 +43,33 @@ public class ModItems {
     public static final RegistryObject<Item> TANTALUM = ITEMS.register("tantalum",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
 
+    public static final RegistryObject<Item> TUNGSTEN = ITEMS.register("tungsten",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> MOLYBDENUM = ITEMS.register("molybdenum",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> RHENIUM = ITEMS.register("rhenium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> TECHNETIUM = ITEMS.register("technetium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> MANGANESE = ITEMS.register("manganese",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> RUTHENIUM = ITEMS.register("ruthenium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> IRIDIUM = ITEMS.register("iridium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> COBALT = ITEMS.register("cobalt",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> CARBON = ITEMS.register("carbon",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
 
 
 
