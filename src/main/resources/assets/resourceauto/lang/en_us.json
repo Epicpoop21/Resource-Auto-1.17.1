@@ -1,6 +1,15 @@
 {
   "item.resourceauto.steel_ingot": "Steel Ingot",
   "item.resourceauto.steel_nugget": "Steel Nugget",
+  "item.resourceauto.yttrium": "Yttrium",
+  "item.resourceauto.scandium": "Scandium",
+  "item.resourceauto.hafnium": "Hafnium",
+  "item.resourceauto.zirconium": "Zirconium",
+  "item.resourceauto.chromium": "Chromium",
+  "item.resourceauto.tantalum": "Tantalum",
+  "item.resourceauto.vanadium": "Vanadium",
+  "item.resourceauto.niobium": "Niobium",
+  "item.resourceauto.titanium": "Titanium",
 
   "block.resourceauto.steel_block": "Steel Block",
 
