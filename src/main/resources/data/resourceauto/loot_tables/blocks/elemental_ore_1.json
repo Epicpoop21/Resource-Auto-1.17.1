@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:manganese"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:molybdenum"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:nickel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:niobium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:palladium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:platinum"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:rhenium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:rhodium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:ruthenium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:scandium"
+        }
+      ]
+    }
+  ]
+}

@@ -70,6 +70,24 @@ public class ModItems {
     public static final RegistryObject<Item> CARBON = ITEMS.register("carbon",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
 
+    public static final RegistryObject<Item> ALUMINIUM = ITEMS.register("aluminium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> GALLIUM = ITEMS.register("gallium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> INDIUM = ITEMS.register("indium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> LEAD = ITEMS.register("lead",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> SILICON = ITEMS.register("silicon",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> TIN = ITEMS.register("tin",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
 
 
 

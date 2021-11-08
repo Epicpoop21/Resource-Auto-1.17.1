@@ -25,8 +25,17 @@
   "item.resourceauto.rhodium": "Rhodium",
   "item.resourceauto.cadmium": "Cadmium",
   "item.resourceauto.carbon": "Carbon",
+  "item.resourceauto.aluminium": "Aluminum",
+  "item.resourceauto.gallium": "Gallium",
+  "item.resourceauto.indium": "Indium",
+  "item.resourceauto.lead": "Lead",
+  "item.resourceauto.silicon": "Silicon",
+  "item.resourceauto.tin": "Tin",
 
   "block.resourceauto.steel_block": "Steel Block",
+  "block.resourceauto.elemental_ore": "Elemental Ore 1",
+  "block.resourceauto.elemental_ore_1": "Elemental Ore 2",
+  "block.resourceauto.elemental_ore_2": "Elemental Ore 3",
 
   "itemGroup.resourceAutoTab": "Resource Auto"
 }

@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:aluminium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:cadmium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:carbon"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:chromium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:cobalt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:gallium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:hafnium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:indium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:iridium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:lead"
+        }
+      ]
+    }
+  ]
+}
