@@ -2,8 +2,6 @@
   "replace": false,
   "values": [
     "resourceauto:steel_block",
-    "resourceauto:elemental_ore",
-    "resourceauto:elemental_ore_1",
-    "resourceauto:elemental_ore_2"
+    "resourceauto:elemental_ore"
   ]
 }

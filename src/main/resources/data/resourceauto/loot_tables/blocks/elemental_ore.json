@@ -43,6 +43,82 @@
         {
           "type": "minecraft:item",
           "name": "resourceauto:lead"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:manganese"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:molybdenum"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:nickel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:niobium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:palladium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:platinum"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:rhenium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:rhodium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:ruthenium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:scandium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:technetium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:tin"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:titanium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:tungsten"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:vanadium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:yttrium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:zinc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:zirconium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "resourceauto:scandium"
         }
       ]
     }

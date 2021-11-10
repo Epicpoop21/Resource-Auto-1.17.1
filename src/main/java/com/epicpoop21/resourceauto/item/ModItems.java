@@ -88,7 +88,26 @@ public class ModItems {
     public static final RegistryObject<Item> TIN = ITEMS.register("tin",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
 
+    public static final RegistryObject<Item> CADMIUM = ITEMS.register("cadmium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
 
+    public static final RegistryObject<Item> NICKEL = ITEMS.register("nickel",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> PALLADIUM = ITEMS.register("palladium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> PLATINUM = ITEMS.register("platinum",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> RHODIUM = ITEMS.register("rhodium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> VANADIUM = ITEMS.register("vanadium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
+
+    public static final RegistryObject<Item> ZINC = ITEMS.register("zinc",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.RESOURCEAUTO_TAB)));
 
 
     public static void register(IEventBus eventBus) {

@@ -33,9 +33,7 @@
   "item.resourceauto.tin": "Tin",
 
   "block.resourceauto.steel_block": "Steel Block",
-  "block.resourceauto.elemental_ore": "Elemental Ore 1",
-  "block.resourceauto.elemental_ore_1": "Elemental Ore 2",
-  "block.resourceauto.elemental_ore_2": "Elemental Ore 3",
+  "block.resourceauto.elemental_ore": "Elemental Ore",
 
   "itemGroup.resourceAutoTab": "Resource Auto"
 }
